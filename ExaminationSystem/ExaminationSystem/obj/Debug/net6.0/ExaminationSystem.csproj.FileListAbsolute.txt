@@ -1,0 +1,14 @@
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\mohamed\OneDrive\Documents\route.net\homework\c#\oop\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
